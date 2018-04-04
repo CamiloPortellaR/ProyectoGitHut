@@ -7,7 +7,7 @@
         Remove this if you use the .htaccess -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-        <title>feature home</title>
+        <title>feature new style</title>
         <meta name="description" content="">
         <meta name="author" content="CamiloPortella">
 
