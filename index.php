@@ -38,7 +38,7 @@
 
             <footer>
                 <p>
-                    &copy; Copyright  by CamiloPortella
+                    &copy; Copyright  by CamiloPortella el rey
                 </p>
             </footer>
         </div>
